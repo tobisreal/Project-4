@@ -132,6 +132,7 @@ app.listen(app.get('port'), function() {
 });
 " >> server.js
 ```
+Use ``sh <filename>.sh`` to run the script
 ![mongo ](https://user-images.githubusercontent.com/111396874/210221841-52be5407-85fd-4cd4-92d3-0c6034fa3fef.png)
 
 ## Step 3: Install Express and set up routes to the server
